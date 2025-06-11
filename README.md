@@ -1,4 +1,4 @@
-# my-favorite-things
+# index.html
 <!DOCTYPE html>
 <html>
 <style>
